@@ -11,6 +11,7 @@ import (
 
 func init() {
 	configs.ConnectToDB()
+
 }
 
 func main() {
